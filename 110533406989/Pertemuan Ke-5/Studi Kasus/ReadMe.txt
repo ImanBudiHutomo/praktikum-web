@@ -1,0 +1,1 @@
+Untuk Menjalankan buka data_handler.php
